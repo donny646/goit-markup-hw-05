@@ -570,4 +570,10 @@ img {
   transform: translate(-50%, -50%) scale(1.5);
 }
 
+.esc-button {
+  position: absolute;
+  top: 24;
+  right: 24;
+}
+
 /* #endregion modal */
