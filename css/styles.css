@@ -604,4 +604,30 @@ img {
   fill: #ffffff;
 }
 
+.name-modal {
+  font-weight: 500;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  margin-bottom: 16px;
+}
+
+.name-form {
+  margin-bottom: 8px;
+}
+
+.user-label {
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
+  color: #8e8f99;
+
+  display: block;
+  margin-bottom: 4px;
+}
+
+.input-form {
+  position: relative;
+}
 /* #endregion modal */
