@@ -650,6 +650,11 @@ img {
   border-color: #4d5ae5;
 }
 
+.input-form:focus + .svg-name,
+.input-form:hover + .svg-name {
+  fill: #4d5ae5;
+}
+
 .svg-name {
   position: absolute;
   left: 16px;
