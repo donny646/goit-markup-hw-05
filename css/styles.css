@@ -601,17 +601,11 @@ img {
 .esc-button:focus {
   background-color: #404bbf;
   border: none;
+  fill: #fff;
 }
 
 .cross-icon {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.cross-icon:hover {
-  fill: #ffffff;
-}
-.cross-icon:focus {
-  fill: #ffffff;
 }
 
 .name-modal {
